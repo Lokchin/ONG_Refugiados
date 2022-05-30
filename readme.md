@@ -9,4 +9,4 @@
   - Para criar a responsividade, setei um comprimento minímo de *768px* para entrar no modo mobile.
 
 - JavaScript
-  - Utilizei um array de 3 imagens para passar as imagens de casas na seção *como hopedar?*
+  - Utilizei um array de 3 imagens para passar as imagens de casas na seção "*como hopedar?*"
